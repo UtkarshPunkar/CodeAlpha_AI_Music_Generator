@@ -102,15 +102,6 @@ generated_music.mid
 
 ---
 
-## 📊 Dataset Statistics
-
-* MIDI Files Used: 39
-* Total Notes Extracted: 56,992
-* Unique Notes: 359
-* Model Type: LSTM Neural Network
-
----
-
 ## ▶️ Run Project
 
 ### Step 1: Preprocess MIDI Files
@@ -147,22 +138,6 @@ Open it using:
 * VLC Media Player
 * Windows Media Player
 * Any MIDI-compatible software
-
----
-
-## 🧠 Deep Learning Architecture
-
-```text
-Input Note Sequences
-        ↓
-LSTM Layer (128 Units)
-        ↓
-Dropout Layer
-        ↓
-Dense Output Layer
-        ↓
-Predicted Note
-```
 
 ---
 
