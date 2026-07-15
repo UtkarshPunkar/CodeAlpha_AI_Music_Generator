@@ -19,7 +19,7 @@ This project was developed as part of the **CodeAlpha Internship Program**.
 * Sequence generation for model training
 * LSTM-based deep learning model
 * AI-generated music creation
-* Automatic MIDI file generation
+* Automatic MIDI file generation 
 * Support for classical music datasets
 
 ---
@@ -154,6 +154,6 @@ Through this project, I learned:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author: 
 
 **Utkarsh Punkar** 
