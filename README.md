@@ -1,4 +1,4 @@
-# 🎵 AI Music Generator using LSTM
+# 🎵 AI Music Generator using LSTM:
 
 An AI-powered music generation system developed using Python, TensorFlow, and Music21 that learns musical patterns from MIDI files and generates new music compositions.
 
